@@ -19,6 +19,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time, Calculating Muslim prayer times (for any location), and Morning and Nights Azkar with reminder.
 
 #### Javascript
+* [Qafiyah](https://qafiyah.com) - An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 * [I18n](https://i18n.softvenue.net) - A Repository to provide arabic translation for technical terms.
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
 * [Arli](http://elkebirmed.github.io/arli/) - JavaScript tools for an Arabic development.
