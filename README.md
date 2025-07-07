@@ -20,7 +20,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 
 #### Javascript
 * [Qafiyah](https://github.com/alwalxed/qafiyah) - An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
-* [I18n](https://i18n.softvenue.net) - A Repository to provide arabic translation for technical terms.
+* [I18n](https://github.com/softvenue/i18n) - A Repository to provide arabic translation for technical terms.
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
 * [Arli](http://elkebirmed.github.io/arli/) - JavaScript tools for an Arabic development.
 * [bidiweb](https://github.com/hasenj/bidiweb) - Determine the base direction of paragraphs and adjust them accordingly.
