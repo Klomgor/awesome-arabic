@@ -70,6 +70,7 @@ CSS frameworks and resources that support RTL layout.
 * [Foundation 5](http://foundation.zurb.com/) - A CSS framework that natively supports RTL layouts.
 * [MaterializeCSS](https://github.com/MahdiMajidzadeh/materialize-rtl) - MaterializeCSS supports RTL layouts.
 * [UIkit](https://getuikit.com/docs/rtl) -  A lightweight and modular front-end framework that supports RTL layouts.
+* [PaperCSS-arabic](https://github.com/bitsnaps/papercss-arabic) - A fork of the less formal CSS framework paperCSS with RTL & arabic support.
 
 #### LESS
 * [bi-app-less](https://github.com/anasnakawa/bi-app-less) - writing bi-directional stylesheets in less
