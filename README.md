@@ -25,6 +25,10 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Arli](http://elkebirmed.github.io/arli/) - JavaScript tools for an Arabic development.
 * [bidiweb](https://github.com/hasenj/bidiweb) - Determine the base direction of paragraphs and adjust them accordingly.
 * [Hijri Converter](https://github.com/dalwadani/hijri-converter) - Convert between Hijri (Um Alqura) and Gregorian [NPM](https://www.npmjs.com/package/hijri-converter).
+* [miraath-calculator](https://github.com/up2gpt-commits/miraath-calculator) - Islamic inheritance calculator (علم المواريث) based on Quranic shares [NPM](https://www.npmjs.com/package/miraath-calculator).
+* [salah-calculator](https://github.com/up2gpt-commits/islamic-prayer-times) - Accurate Islamic prayer times calculator (مواقيت الصلاة) with 8 methods and 164 cities [NPM](https://www.npmjs.com/package/salah-calculator).
+* [qibla-calc](https://github.com/up2gpt-commits/qibla-direction) - Qibla direction and distance calculator (اتجاه القبلة) with 100 cities [NPM](https://www.npmjs.com/package/qibla-calc).
+* [ummalqura](https://github.com/up2gpt-commits/hijri-converter) - Hijri/Islamic date converter based on Umm al-Qura algorithm [NPM](https://www.npmjs.com/package/ummalqura).
 * [Hijri.js](https://github.com/xsoh/Hijri.js) - A tool for Hijri calender (based on Umm al-Qura calculations) in Javascript.
 * [jsastem](https://github.com/ejtaal/jsastem) - JavaScript Arabic Stemmer.
 * [moment-hijri](https://github.com/xsoh/moment-hijri) -  A Hijri calendar (based on Umm al-Qura calculations) plugin for moment.js.
